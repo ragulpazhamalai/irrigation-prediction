@@ -6,6 +6,8 @@ Predict irrigation need (Low, Medium, High) using environmental and crop data.
 ## 📊 Dataset
 - Features Soil Type, Crop Type, Temperature, Humidity, etc.
 - Target Irrigation_Need
+📌 **Note:** Dataset not included due to size & licensing.  
+👉 Download from Kaggle and place inside `data/` folder.
 
 ## ⚙️ Approach
 - Data preprocessing (encoding categorical features)
